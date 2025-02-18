@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência da Computação Pela UCB(Universidade Católica de Brasília)<br>Estudante de Ciência da Computação(Licenciatura) pela UnB(Universidade de Brasília)<br>Interesse em Back-end<br>À procura de estágio<br>Grande interesse por matemática
+Estudante de Ciência da Computação(Licenciatura) pela UnB(Universidade de Brasília)<br>Interesse em Back-end<br>À procura de estágio<br>Grande interesse por matemática<br>Flamengo
 
 
 ## 🌐 Socials:
