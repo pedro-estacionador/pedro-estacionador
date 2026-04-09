@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência da Computação(Bacharelado) pela UnB(Universidade de Brasília)<br>Interesse em Back-end<br>À procura de estágio<br>Grande interesse por matemática<br>Flamengo
+Estudante de Ciência da Computação(Bacharelado) pela UnB(Universidade de Brasília)<br>Interesse em Back-end; IA; Machine Learning<br>À procura de estágio<br>Grande interesse por matemática<br>Flamengo
 
 
 ## 🌐 Socials:
