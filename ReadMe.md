@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Ciência da Computação(Bacharelado) pela UnB(Universidade de Brasília)<br>Interesse em Back-end; IA; Machine Learning<br><br>Grande interesse por matemática<br>
+Estudante de Ciência da Computação(Bacharelado) pela UnB(Universidade de Brasília)<br>Grande interesse em Back-end; Machine Learning<br>Fascínio por Inteligência Artificial<br>Grande interesse por matemática<br>
 
 
 ## 🌐 Socials:
